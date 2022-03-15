@@ -1,4 +1,4 @@
-# CNN_ML3 - GROUP ASSIGNMENT
+# Convolutional Neuronal Nets
 
 This practice session pursues the following objectives:
 - To	be	familiar	with	convolutional	neural	nets as	a	powerful	supervised	machine	learning classification	technique.
